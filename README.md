@@ -8,18 +8,18 @@
 
 ## Table of Contents:
 
-- [Installation Instructions]
-- [Usage]
-- [Features]
-- [Configuration]
-- [Contributing]
-- [License]
-- [Credits]
-- [Documentation]
-- [Support]
-- [Badges]
-- [Examples]
-- [Roadmap]
+- Installation Instructions
+- Usage
+- Features
+- Configuration
+- Contributing
+- License
+- Credits
+- Documentation
+- Support
+- Badges
+- Examples
+- Roadmap
 
 ---
 
